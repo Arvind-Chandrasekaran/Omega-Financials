@@ -1,4 +1,4 @@
-# Stock-Price-Analyser
+# Omega Financials
 
 ## Stock Price Prediction with News Sentiment Analysis
 ##### This project is a full-stack, microservices-based application designed to predict stock prices by leveraging historical stock data and financial news sentiment. The entire pipeline, from data collection to prediction, is containerized and deployed on AWS Elastic Container Service (ECS) for scalability and reliability.
